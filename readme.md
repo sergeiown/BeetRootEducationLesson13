@@ -6,6 +6,10 @@ _LMS Beetroot Academy progress_
 
 **Обов'язково:**
 
-- Зверстати макет [Photography](https://www.figma.com/file/NWRef00m992HvdfI9mIuzM/CSS-Grid-Layout?node-id=0%3A1) за допомогою грідів (сторінка повинна бути адаптивна).
+- Зверстати сторінку і підключити усі необхідні шрифти - [посилання](https://www.figma.com/file/pKSsjdpNxqs0c9Cc0aZFUX/web-fonts).
+
+Екстра:
+
+- До макету Denis Novic підключити сімейство шрифтів Gilroy і замінити їх відповідно до макету.
 
 ![screenshot](./img/screenshot.png)
