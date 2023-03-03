@@ -12,4 +12,4 @@ _LMS Beetroot Academy progress_
 
 - До макету Denis Novic підключити сімейство шрифтів Gilroy і замінити їх відповідно до макету.
 
-![screenshot](./img/screenshot.png)
+![image](https://user-images.githubusercontent.com/112722061/222781619-34bc6bcc-85e1-467e-9006-c9e697443ea4.png)
